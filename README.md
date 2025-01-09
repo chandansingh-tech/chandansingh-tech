@@ -1,8 +1,8 @@
-!["Chandan Kumar Singh - Cloud Architect"](path/to/your/profile_picture.jpg)  **Chandan Kumar Singh**
+## Chandan Kumar Singh
 
-**Cloud Architect | 18+ Years of Experience**
+**Senior Architect - Cloud & Analytics**
 
-I'm a passionate cloud architect with over 18 years of experience leading complex projects across diverse industries. I leverage my expertise in cloud technologies (AWS, GCP, Azure) to deliver innovative solutions that drive business value. I'm also skilled in Generative AI, Machine Learning, Microservices, and IoT.
+I am a cloud architect with 18+ years of experience leading complex projects. I am skilled in cloud (AWS, GCP, Azure), Generative AI, ML, Microservices, and IoT. I am passionate about delivering innovative solutions and helping businesses leverage the power of the cloud.
 
 **Contact:**
 
@@ -16,7 +16,7 @@ I'm a passionate cloud architect with over 18 years of experience leading comple
 * **Machine Learning:** TensorFlow, PyTorch
 * **Programming Languages:** Python, Java, JavaScript
 * **DevOps:** Docker, Kubernetes
-* **Gen AI:** LLM creation, RAG, VAE, GANs, NLP, CV
+* **Gen AI:**  LLM creation, RAG, VAE, GANs, NLP, CV
 
 **Projects:**
 
@@ -26,12 +26,13 @@ I'm a passionate cloud architect with over 18 years of experience leading comple
 
 **Education:**
 
-* Master of Computer Applications (MCA), Indira Gandhi National Open University (IGNOU), Delhi
+* **Master of Computer Applications (MCA)**, Indira Gandhi National Open University (IGNOU), Delhi
 
 **Badges:**
+
 [![GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=chandansingh-tech&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/chandansingh-tech)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chandan.kumr.singh@gmail.com&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)](https://github.com/chandansingh-tech)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandan.kumr.singh@gmail.com&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%2%Languages)](https://github-com/chandansingh-tech)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chandansingh-tech&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)](https://github.com/chandansingh-tech)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandansingh-tech&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github-com/chandansingh-tech)
 
 **Let's Connect!**
 
