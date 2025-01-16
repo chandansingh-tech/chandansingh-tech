@@ -19,10 +19,11 @@ I am a cloud architect with 18+ years of experience leading complex projects. I 
 * **Gen AI:**  LLM creation, RAG, VAE, GANs, NLP, CV
 
 **Projects:**
-
+https://github.com/chandansingh-tech/rag-advanced/tree/main
 * **ReactDemo:** [https://github.com/chandansingh-tech/ReactDemo](https://github.com/chandansingh-tech/ReactDemo) - A React application demonstrating React hooks.
 * **ml.school:** [https://github.com/chandansingh-tech/ml.school](https://github.com/chandansingh-tech/ml.school) - A collection of machine learning projects and tutorials.
-* **agentic-ai-projects:** [https://github.com/chandansingh-tech/agentic-ai-projects](https://github.com/chandansingh-tech/agentic-ai-projects) - A collection of projects on artificial intelligence and machine learning.
+* **agentic-ai-projects:** [https://github.com/chandansingh-tech/agentic-ai-projects](https://github.com/chandansingh-tech/agentic-ai-projects) - A collection of projects on agentic ai projects.
+* **rag-advanced:** [https://github.com/chandansingh-tech/agentic-ai-projects](https://github.com/chandansingh-tech/agentic-ai-projects) - A collection of advanced rag end to end projects.
 
 **Education:**
 
