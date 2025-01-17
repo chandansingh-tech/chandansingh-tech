@@ -16,7 +16,9 @@ I am a cloud architect with 18+ years of experience leading complex projects. I 
 * **Machine Learning:** TensorFlow, PyTorch
 * **Programming Languages:** Python, Java, JavaScript
 * **DevOps:** Docker, Kubernetes
-* **Gen AI:**  LLM creation, RAG, VAE, GANs, NLP, CV
+* **Gen AI:**  LLM creation, RAG, VAE, GANs, NLP, Agent Creation
+* **Agentic AI:**  CrewAI, phiData, Autogen, Langflow, Bedrock Agent
+
 
 **Projects:**
 
