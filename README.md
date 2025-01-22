@@ -26,6 +26,7 @@ I am a cloud architect with 18+ years of experience leading complex projects. I 
 * **[ml.school](https://github.com/chandansingh-tech/ml.school):** - A collection of machine learning projects and tutorials.
 * **[agentic-ai-projects:](https://github.com/chandansingh-tech/agentic-ai-projects)** - A collection of projects on agentic ai projects.
 * **[rag-advanced:](https://github.com/chandansingh-tech/rag-advanced/tree/main)** - A collection of advanced rag end to end projects.
+* **[aws-bedrock-projects:](https://github.com/chandansingh-tech/aws-bedrock-projects)** - A collection of advanced bedrock langchain multimodel end to end projects
 
 **Education:**
 
