@@ -22,7 +22,7 @@ I am a cloud architect with 18+ years of experience leading complex projects. I 
 
 **Projects:**
 
-* **[ReactDemo:](https://github.com/chandansingh-tech/ReactDemo)** - A React application demonstrating React hooks.
+* **[react-fullstack-projects:](https://github.com/chandansingh-tech/react-fullstack-projects)** - Building a collection of react full stack application.
 * **[ml.school](https://github.com/chandansingh-tech/ml.school):** - A collection of machine learning projects and tutorials.
 * **[agentic-ai-projects:](https://github.com/chandansingh-tech/agentic-ai-projects)** - A collection of projects on agentic ai projects.
 * **[rag-advanced:](https://github.com/chandansingh-tech/rag-advanced/tree/main)** - A collection of advanced rag end to end projects.
