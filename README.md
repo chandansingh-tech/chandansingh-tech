@@ -2,7 +2,7 @@
 
 **Senior Engineering Leader**
 
-I'm a seasoned technology leader with 18+ years of experience, transitioning from software engineering to senior architect roles specializing in Generative AI and Agentic Systems. I'm passionate about pushing the boundaries of AI with LLMs (e.g., GPT-4, Llama, Gemini, Claude) to create innovative solutions. My expertise in cloud computing (AWS, Azure, GCP) enables me to build and deploy robust, scalable applications.
+I'm a seasoned technology leader with 18+ years of experience, transitioning from software engineering to senior leadership roles specializing in Generative AI and Agentic Systems. I'm passionate about pushing the boundaries of AI with LLMs (e.g., GPT-4, Llama, Gemini, Claude) to create innovative solutions. My expertise in cloud computing (AWS, Azure, GCP) enables me to build and deploy robust, scalable applications.
 
 **Contact:**
 
