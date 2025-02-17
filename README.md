@@ -1,8 +1,8 @@
 ## Chandan Kumar Singh
 
-**Senior Architect - Cloud & Analytics**
+**Senior Engineering Leader**
 
-I am a cloud architect with 18+ years of experience leading complex projects. I am skilled in cloud (AWS, GCP, Azure), Generative AI, ML, Microservices, and IoT. I am passionate about delivering innovative solutions and helping businesses leverage the power of the cloud.
+I'm a seasoned technology leader with 18+ years of experience, transitioning from software engineering to senior architect roles specializing in Generative AI and Agentic Systems. I'm passionate about pushing the boundaries of AI with LLMs (e.g., GPT-4, Llama, Gemini, Claude) to create innovative solutions. My expertise in cloud computing (AWS, Azure, GCP) enables me to build and deploy robust, scalable applications.
 
 **Contact:**
 
